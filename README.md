@@ -1,4 +1,4 @@
-# IndicEval 🌐
+# TransEval 🌐
 ### A Multilingual LLM Translation and Evaluation Framework for Indian Languages
 
 IndicEval is a multilingual AI-powered translation and evaluation system designed to translate text between English and five Indian languages: Hindi, Telugu, Tamil, Kannada, and Marathi.
