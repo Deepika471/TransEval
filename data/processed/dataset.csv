@@ -1,0 +1,10 @@
+
+sample_id,source_language,target_language,translation_direction,text_type,source_text,reference_translation,reference_source,split
+HI_EN_GEN_001,Hindi,English,hi-en,general,मुझे नई तकनीक सीखना पसंद है।,I like learning new technology.,Illustrative sample,test
+HI_EN_GEN_002,Hindi,English,hi-en,general,हमें पर्यावरण की रक्षा करनी चाहिए।,We should protect the environment.,Illustrative sample,test
+TE_EN_GEN_001,Telugu,English,te-en,general,నాకు కొత్త విషయాలు నేర్చుకోవడం ఇష్టం.,I like learning new things.,Illustrative sample,test
+TE_EN_GEN_002,Telugu,English,te-en,general,మనము పర్యావరణాన్ని కాపాడాలి.,We should protect the environment.,Illustrative sample,test
+EN_HI_GEN_001,English,Hindi,en-hi,general,I enjoy learning new things.,मुझे नई चीज़ें सीखना पसंद है।,Illustrative sample,test
+EN_HI_GEN_002,English,Hindi,en-hi,general,We should protect the environment.,हमें पर्यावरण की रक्षा करनी चाहिए।,Illustrative sample,test
+EN_TE_GEN_001,English,Telugu,en-te,general,I enjoy learning new things.,నాకు కొత్త విషయాలు నేర్చుకోవడం ఇష్టం.,Illustrative sample,test
+EN_TE_GEN_002,English,Telugu,en-te,general,We should protect the environment.,మనము పర్యావరణాన్ని కాపాడాలి.,Illustrative sample,test
